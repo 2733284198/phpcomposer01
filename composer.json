@@ -1,5 +1,5 @@
 {
-  "name": "manlanphp/hello-composer",
+  "name": "manlanphp/hello-manlancomposer",
   "description": "Hello, Composer!",
   "type": "library",
   "require": {
