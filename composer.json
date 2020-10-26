@@ -1,5 +1,5 @@
 {
-  "name": "tlanyan/hello-composer",
+  "name": "manlanphp/hello-composer",
   "description": "Hello, Composer!",
   "type": "library",
   "require": {
@@ -8,8 +8,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "tlanyan",
-      "email": "tlanyan@hotmail.com"
+      "name": "manlanphp",
+      "email": "manlan2010@163.com"
     }
   ],
   "minimum-stability": "stable",
