@@ -8,4 +8,9 @@ class HelloComposer
     {
         echo "Hello, Composer!", PHP_EOL;
     }
+    
+    public static function hello()
+    {
+        echo "Hello, hello!", PHP_EOL;
+    }
 }
